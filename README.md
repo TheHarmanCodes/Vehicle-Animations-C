@@ -41,7 +41,7 @@ This repository contains C programs that demonstrate moving vehicle animations u
 2. Clone this repository:
 
    ```bash
-   git clone https://github.com/<your-username>/Vehicle-Animations-C.git
+   git clone https://github.com/TheHarmanCodes/Vehicle-Animations-C.git
    cd Vehicle-Animations-C
    ```
 
