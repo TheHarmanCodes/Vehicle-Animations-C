@@ -1,4 +1,3 @@
-````markdown
 # Vehicle Animations in C
 
 This repository contains C programs that demonstrate moving vehicle animations using the `graphics.h` library. The animations include:
@@ -44,6 +43,7 @@ This repository contains C programs that demonstrate moving vehicle animations u
    git clone https://github.com/<your-username>/Vehicle-Animations-C.git
    cd Vehicle-Animations-C
    ```
+
 ````
 
 3. Open the `.c` file for the animation you want to run in your compiler:
@@ -88,3 +88,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Special thanks to the `graphics.h` library for enabling graphical development in C.
 
 ---
+````
