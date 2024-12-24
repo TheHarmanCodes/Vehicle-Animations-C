@@ -39,12 +39,11 @@ This repository contains C programs that demonstrate moving vehicle animations u
 
 1. Download and install Turbo C++ or another compiler that supports `graphics.h`.
 2. Clone this repository:
+
    ```bash
    git clone https://github.com/<your-username>/Vehicle-Animations-C.git
    cd Vehicle-Animations-C
    ```
-
-````
 
 3. Open the `.c` file for the animation you want to run in your compiler:
    - `car_animation.c` for the car animation.
@@ -88,4 +87,3 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 - Special thanks to the `graphics.h` library for enabling graphical development in C.
 
 ---
-````
